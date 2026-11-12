@@ -6,8 +6,8 @@
 
 CatVTON is a simple and efficient diffusion-based method for image virtual try-on. It brings garment and person information together through concatenation, with a lightweight architecture, parameter-efficient training, and simplified inference.
 
-## Availability
+## About
 
-This repository serves as the project page for our paper. Due to project requirements, the source code is no longer publicly available from this repository. The paper link and project overview are retained for reference.
+This repository is the official project page for our paper, providing a brief project overview and a link to the publication.
 
 Thank you for your interest and support.
